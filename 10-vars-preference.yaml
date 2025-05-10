@@ -15,7 +15,7 @@
     ansible.builtin.debug:
       msg: "Hello, Good {{WISHES}}"
 
-  # preference: 
+  # preferences: 
   # 1.arguments
   # 2.Task level variables   
   # 3.Variable file
